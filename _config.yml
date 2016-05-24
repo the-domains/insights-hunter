@@ -1,0 +1,28 @@
+name: Insights Hunter
+favicon: null
+layout_spectrum: 0.6828781890217215
+typography_spectrum: 0.370681079570204
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.30494664679281414
+  lightness: 0.01946240197867155
+  saturation: 0.8567587623838335
+  rhythmicContrast: 0.21665610023774207
+purpose: []
